@@ -1,0 +1,15 @@
+replace your mongodb atlas url in .env 
+
+to install node_module
+-> npm i 
+
+.env
+USER_PORT=3001
+PRODUCT_PORT=3002
+ORDER_PORT=3003
+MONGO_URL="Mongo url"
+
+To run project : npm run start:dev
+
+Task recordimg link
+https://drive.google.com/drive/folders/1krejiH2FQ2fdkl1pOgLHrR3mQh2MK7uj?usp=sharing
